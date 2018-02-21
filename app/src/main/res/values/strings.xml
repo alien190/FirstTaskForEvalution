@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstTaskForEvalution</string>
+    <string name="et_hint">Введите текст</string>
+    <string name="bt_text">Ок</string>
+</resources>
